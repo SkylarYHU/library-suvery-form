@@ -6,3 +6,6 @@ For any questions or suggestions, please contact me at:
 
 Email: your-email@example.com
 GitHub: your-username
+
+## Screenshots
+![website](screenshot.png)
