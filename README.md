@@ -8,4 +8,4 @@ Email: your-email@example.com
 GitHub: your-username
 
 ## Screenshots
-![website](/screenshot.png)
+![website](screenshot.png)
