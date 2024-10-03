@@ -4,7 +4,7 @@ This project is a simple web-based survey form designed to collect feedback abou
 ## Contact
 For any questions or suggestions, please contact me at:
 
-Email: your-email@example.com
+Email: skylarhyn@gmail.com
 GitHub: your-username
 
 ## Screenshots
